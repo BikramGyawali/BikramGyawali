@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently: Working on enhancing my front-end development skills and exploring new frameworks.<br>👯 Looking to collaborate on: Front-end projects, UI/UX improvements, and innovative web applications.<br>🤝 Seeking help with: Expanding my knowledge in advanced React patterns and state management.<br>🌱 Currently learning: Exploring modern tools and frameworks like Next.js, and delving deeper into Tailwind CSS.<br>💬 Feel free to ask me about: Front-end development, React, Tailwind CSS, and creating responsive, user-friendly interfaces.<br>⚡ Fun fact: I enjoy bringing designs to life with clean, efficient code and have a keen eye for aesthetics.
+🔭 Currently: Working on enhancing my front-end development skills and exploring new frameworks.<br>👯 Looking to collaborate on: Front-end projects, UI/UX improvements, and innovative web applications.<br>🤝 Seeking help with: Expanding my knowledge in advanced <b>React patterns and state management<b/>.<br>🌱 Currently learning: Exploring modern tools and frameworks like Next.js, and delving deeper into Tailwind CSS.<br>💬 Feel free to ask me about: Front-end development, React, Tailwind CSS, and creating responsive, user-friendly interfaces.<br>⚡ Fun fact: I enjoy bringing designs to life with clean, efficient code and have a keen eye for aesthetics.
 
 
 ## 🌐 Socials:
