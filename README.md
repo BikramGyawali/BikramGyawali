@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>🔭 Currently:</b> Working on enhancing my front-end development skills and exploring new frameworks.<br> <b>👯 Looking to collaborate on:</b> Front-end projects, UI/UX improvements, and innovative web applications.<br> <b>🤝 Seeking help with:</b> Expanding my knowledge in advanced <b>React patterns and state management</b>.<br> <b>🌱 Currently learning:</b> Exploring modern tools and frameworks like Next.js, and delving deeper into Tailwind CSS.<br><b>💬 Feel free to ask me about:</b> Front-end development, React, Tailwind CSS, and creating responsive, user-friendly interfaces.<br><b>⚡ Fun fact:</b> I enjoy bringing designs to life with clean, efficient code and have a keen eye for aesthetics. <br> <b>📧 How to reach me :</b> gyawalibikram0@gmai.com 
+<b>🔭 Currently:</b> Working on enhancing my front-end development skills and exploring new frameworks and libraries.<br> <b>👯 Looking to collaborate on:</b> Front-end projects, UI/UX improvements, and innovative web applications.<br> <b>🤝 Seeking help with:</b> Expanding my knowledge in advanced <b>React patterns and state management</b>.<br> <b>🌱 Currently learning:</b> Exploring modern tools and frameworks like Next.js, and delving deeper into Tailwind CSS.<br><b>💬 Feel free to ask me about:</b> Front-end development, React, Tailwind CSS, and creating responsive, user-friendly interfaces.<br><b>⚡ Fun fact:</b> I enjoy bringing designs to life with clean, efficient code and have a keen eye for aesthetics. <br> <b>📧 How to reach me :</b> gyawalibikram0@gmai.com 
 
 
 ## 🌐 Socials:
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=BikramGyawali&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BikramGyawali&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BikramGyawali&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+       
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BikramGyawali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
