@@ -1,7 +1,9 @@
 # 💫 About Me:
 <b>🔭 Currently:</b> Working on enhancing my front-end development skills and exploring new frameworks and libraries.<br> <b>👯 Looking to collaborate on:</b> Front-end projects, UI/UX improvements, and innovative web applications.<br> <b>🤝 Seeking help with:</b> Expanding my knowledge in advanced <b>React patterns and state management</b>.<br> <b>🌱 Currently learning:</b> Exploring modern tools and frameworks like Next.js, and delving deeper into Tailwind CSS.<br><b>💬 Feel free to ask me about:</b> Front-end development, React, Tailwind CSS, and creating responsive, user-friendly interfaces.<br><b>⚡ Fun fact:</b> I enjoy bringing designs to life with clean, efficient code and have a keen eye for aesthetics. <br> <b>📧 How to reach me :</b> gyawalibikram0@gmai.com 
 
-<img width="646" height="253" alt="image" src="https://github.com/user-attachments/assets/dad2260b-22d9-4faf-8148-6e04424d23b0" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikxya09&label=Profile%20views&color=0e75b6&style=flat" alt="Bikram Gyawali" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1BL5TJJkK7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bikram-gyawali-a545422b2/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodingJourney-002) 
