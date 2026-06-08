@@ -111,11 +111,6 @@ const bikram = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BikramGyawali&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" width="100%" />
-</div>
 
 ---
 
@@ -127,11 +122,6 @@ const bikram = {
 
 ---
 
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=BikramGyawali&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div>
 
 ---
 
